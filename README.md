@@ -10,4 +10,4 @@ the UC Irvine Machine Learning repository. Data can be downloaded here: https://
 
 1. Download and extract files from dataset into working directory
 2. Run R scripts
-3. Each script will output a png file containing relevant plots
+3. Each script will output a png file containing relevant plots into the working directory
